@@ -1,0 +1,13 @@
+C:\Users\Xiphias\source\repos\DemoSolution\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.exe.config
+C:\Users\Xiphias\source\repos\DemoSolution\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.exe
+C:\Users\Xiphias\source\repos\DemoSolution\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.pdb
+C:\Users\Xiphias\source\repos\DemoSolution\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.csprojAssemblyReference.cache
+C:\Users\Xiphias\source\repos\DemoSolution\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.Form1.resources
+C:\Users\Xiphias\source\repos\DemoSolution\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.Properties.Resources.resources
+C:\Users\Xiphias\source\repos\DemoSolution\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.csproj.GenerateResource.cache
+C:\Users\Xiphias\source\repos\DemoSolution\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Xiphias\source\repos\DemoSolution\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.exe
+C:\Users\Xiphias\source\repos\DemoSolution\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.pdb
+C:\Users\Xiphias\source\repos\DemoSolution\WindowsFormsDemo\bin\Debug\DemoREPOSITORY.dll
+C:\Users\Xiphias\source\repos\DemoSolution\WindowsFormsDemo\bin\Debug\DemoREPOSITORY.pdb
+C:\Users\Xiphias\source\repos\DemoSolution\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.csproj.CopyComplete

@@ -1,0 +1,10 @@
+C:\Users\Xiphias\source\repos\DemoSolution\ConsoleDemo\bin\Debug\ConsoleDemo.exe.config
+C:\Users\Xiphias\source\repos\DemoSolution\ConsoleDemo\bin\Debug\ConsoleDemo.exe
+C:\Users\Xiphias\source\repos\DemoSolution\ConsoleDemo\bin\Debug\ConsoleDemo.pdb
+C:\Users\Xiphias\source\repos\DemoSolution\ConsoleDemo\bin\Debug\DemoREPOSITORY.dll
+C:\Users\Xiphias\source\repos\DemoSolution\ConsoleDemo\bin\Debug\DemoREPOSITORY.pdb
+C:\Users\Xiphias\source\repos\DemoSolution\ConsoleDemo\obj\Debug\ConsoleDemo.csprojAssemblyReference.cache
+C:\Users\Xiphias\source\repos\DemoSolution\ConsoleDemo\obj\Debug\ConsoleDemo.csproj.CoreCompileInputs.cache
+C:\Users\Xiphias\source\repos\DemoSolution\ConsoleDemo\obj\Debug\ConsoleDemo.csproj.CopyComplete
+C:\Users\Xiphias\source\repos\DemoSolution\ConsoleDemo\obj\Debug\ConsoleDemo.exe
+C:\Users\Xiphias\source\repos\DemoSolution\ConsoleDemo\obj\Debug\ConsoleDemo.pdb

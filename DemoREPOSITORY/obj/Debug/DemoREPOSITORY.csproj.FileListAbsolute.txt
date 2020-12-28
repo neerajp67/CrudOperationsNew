@@ -1,0 +1,5 @@
+C:\Users\Xiphias\source\repos\DemoSolution\DemoREPOSITORY\bin\Debug\DemoREPOSITORY.dll
+C:\Users\Xiphias\source\repos\DemoSolution\DemoREPOSITORY\bin\Debug\DemoREPOSITORY.pdb
+C:\Users\Xiphias\source\repos\DemoSolution\DemoREPOSITORY\obj\Debug\DemoREPOSITORY.csproj.CoreCompileInputs.cache
+C:\Users\Xiphias\source\repos\DemoSolution\DemoREPOSITORY\obj\Debug\DemoREPOSITORY.dll
+C:\Users\Xiphias\source\repos\DemoSolution\DemoREPOSITORY\obj\Debug\DemoREPOSITORY.pdb
